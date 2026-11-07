@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+  <title id="title">Nixie Blueprint conceptual technical illustration</title>
+  <desc id="desc">Blueprint-inspired concept artwork, not an approved engineering drawing, not to scale.</desc>
+  <defs>
+    <pattern id="fine" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#294460" stroke-width=".7" opacity=".4"/></pattern>
+    <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V10" stroke="#779ab3" stroke-width="1" opacity=".25"/></pattern>
+    <filter id="halo"><feGaussianBlur stdDeviation="5"/></filter>
+    <style>.main{fill:none;stroke:#c5dbe8;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round}.thin{fill:none;stroke:#7ba1bd;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round}.faint{fill:none;stroke:#567b98;stroke-width:1;opacity:.48}.accent{fill:none;stroke:#f0c343;stroke-width:2}.filled{fill:#0c2339;stroke:#a9c6d8;stroke-width:2}.txt{font:500 13px Arial,sans-serif;fill:#94b1c6;letter-spacing:2px}.txt2{font:600 11px Arial,sans-serif;fill:#f0c343;letter-spacing:2px}.micro{font:10px Arial,sans-serif;fill:#6b91a8;letter-spacing:1px}</style>
+  </defs>
+<rect width="1280" height="760" fill="url(#fine)" opacity=".45"/>
+<path class="thin" d="M65 75H235M65 75V220M1160 70H1210V115M66 668V705H110" opacity=".65"/>
+<text x="65" y="55" class="txt2">OR-002 / ELECTRONICS &amp; DESIGN</text>
+<text x="1142" y="57" class="txt" text-anchor="end">EXPLODED ASSEMBLY STUDY</text>
+<path class="faint" d="M50 615H1190M90 650H1160M140 680H1070M230 690L410 515M450 700L590 535M700 700L760 540M940 700L910 545"/>
+<path d="M220 160L835 160L917 221L303 221Z" fill="#112c42" stroke="#b4cddd" stroke-width="2"/>
+<path d="M303 221H917V492H303Z" fill="#0a2036" stroke="#e0ebf0" stroke-width="2.5"/>
+<path d="M220 160L303 221V492L220 431Z" fill="#091b30" stroke="#7799b2" stroke-width="2"/>
+<path d="M220 431L303 492H917L835 431" class="thin"/>
+<path d="M323 239H897V475H323Z" fill="#08182a" stroke="#748fa4" stroke-width="1.3"/>
+<path d="M312 315H907M312 395H907" class="thin" opacity=".7"/>
+<path d="M231 176L294 228M231 429L293 480" class="thin"/>
+<text x="334" y="286" class="micro">TOKYO</text>
+<rect x="412" y="243" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="419" y="248" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="435" y="285" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">1</text>
+<path d="M420 252V288M449 252V288" class="faint"/>
+<rect x="485" y="243" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="492" y="248" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="508" y="285" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">9</text>
+<path d="M493 252V288M522 252V288" class="faint"/>
+<rect x="558" y="243" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="565" y="248" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="581" y="285" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">3</text>
+<path d="M566 252V288M595 252V288" class="faint"/>
+<rect x="631" y="243" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="638" y="248" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="654" y="285" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">8</text>
+<path d="M639 252V288M668 252V288" class="faint"/>
+<rect x="704" y="243" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="711" y="248" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="727" y="285" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">0</text>
+<path d="M712 252V288M741 252V288" class="faint"/>
+<rect x="777" y="243" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="784" y="248" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="800" y="285" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">0</text>
+<path d="M785 252V288M814 252V288" class="faint"/>
+<circle cx="533" cy="268" r="2.5" fill="#f0c343"/><circle cx="533" cy="280" r="2.5" fill="#f0c343"/>
+<circle cx="679" cy="268" r="2.5" fill="#f0c343"/><circle cx="679" cy="280" r="2.5" fill="#f0c343"/>
+<text x="334" y="364" class="micro">TEXAS</text>
+<rect x="412" y="321" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="419" y="326" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="435" y="363" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">0</text>
+<path d="M420 330V366M449 330V366" class="faint"/>
+<rect x="485" y="321" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="492" y="326" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="508" y="363" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">4</text>
+<path d="M493 330V366M522 330V366" class="faint"/>
+<rect x="558" y="321" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="565" y="326" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="581" y="363" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">3</text>
+<path d="M566 330V366M595 330V366" class="faint"/>
+<rect x="631" y="321" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="638" y="326" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="654" y="363" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">8</text>
+<path d="M639 330V366M668 330V366" class="faint"/>
+<rect x="704" y="321" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="711" y="326" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="727" y="363" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">0</text>
+<path d="M712 330V366M741 330V366" class="faint"/>
+<rect x="777" y="321" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="784" y="326" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="800" y="363" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">0</text>
+<path d="M785 330V366M814 330V366" class="faint"/>
+<circle cx="533" cy="346" r="2.5" fill="#f0c343"/><circle cx="533" cy="358" r="2.5" fill="#f0c343"/>
+<circle cx="679" cy="346" r="2.5" fill="#f0c343"/><circle cx="679" cy="358" r="2.5" fill="#f0c343"/>
+<text x="334" y="442" class="micro">UTC</text>
+<rect x="412" y="399" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="419" y="404" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="435" y="441" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">1</text>
+<path d="M420 408V444M449 408V444" class="faint"/>
+<rect x="485" y="399" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="492" y="404" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="508" y="441" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">0</text>
+<path d="M493 408V444M522 408V444" class="faint"/>
+<rect x="558" y="399" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="565" y="404" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="581" y="441" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">3</text>
+<path d="M566 408V444M595 408V444" class="faint"/>
+<rect x="631" y="399" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="638" y="404" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="654" y="441" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">8</text>
+<path d="M639 408V444M668 408V444" class="faint"/>
+<rect x="704" y="399" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="711" y="404" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="727" y="441" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">0</text>
+<path d="M712 408V444M741 408V444" class="faint"/>
+<rect x="777" y="399" width="45" height="56" rx="13" fill="#0a1c2d" stroke="#b6d1df" stroke-width="1.7"/>
+<rect x="784" y="404" width="31" height="46" rx="10" fill="#1a281e" stroke="#d3a64c" stroke-opacity=".6" stroke-width=".9"/>
+<text x="800" y="441" font-family="Consolas,monospace" font-size="29" text-anchor="middle" fill="#f0c343" opacity=".98">0</text>
+<path d="M785 408V444M814 408V444" class="faint"/>
+<circle cx="533" cy="424" r="2.5" fill="#f0c343"/><circle cx="533" cy="436" r="2.5" fill="#f0c343"/>
+<circle cx="679" cy="424" r="2.5" fill="#f0c343"/><circle cx="679" cy="436" r="2.5" fill="#f0c343"/>
+<path d="M314 539L897 539L955 577L369 577Z" fill="#0d2a39" stroke="#b6d1df" stroke-width="2"/>
+<path d="M369 577V590L955 590V577" class="thin"/>
+<path d="M316 539V502M897 539V502" class="thin" stroke-dasharray="5 7"/>
+<path d="M382 552H914M400 565H880" class="faint"/>
+<path d="M400 548L420 558H500L527 545H610L638 557H745L773 544H880" class="accent" opacity=".65"/>
+<rect x="410" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="451" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="492" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="533" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="574" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="615" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="656" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="697" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="738" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="779" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="820" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<rect x="861" y="550" width="13" height="7" fill="#183b4a" stroke="#779eb6" stroke-width=".7"/>
+<path d="M355 620L947 620L995 646L401 646Z" fill="none" stroke="#c5dbe8" stroke-width="1.7"/>
+<path d="M401 646V668L995 668V646" class="thin"/>
+<path d="M392 618V588M945 618V588" class="thin" stroke-dasharray="5 6"/>
+<path d="M364 630H953" class="faint"/>
+<path d="M545 157L487 105H228" class="thin"/>
+<circle cx="545" cy="157" r="4" fill="#f0c343"/>
+<text x="228" y="92" class="txt2">DISPLAY ARRAY</text>
+<text x="228" y="113" class="micro">6 TUBES / TIMEZONE</text>
+<path d="M916 279L1067 216H1174" class="thin"/>
+<circle cx="916" cy="279" r="4" fill="#f0c343"/>
+<text x="1046" y="197" class="txt2">IN-14 TUBES</text>
+<text x="1046" y="216" class="micro">VINTAGE DISPLAY</text>
+<path d="M875 564L1070 487H1170" class="thin"/>
+<circle cx="875" cy="564" r="4" fill="#f0c343"/>
+<text x="1052" y="474" class="txt2">CONTROL PCB</text>
+<text x="1052" y="493" class="micro">CUSTOM ELECTRONICS</text>
+<path d="M420 647L241 583H90" class="thin"/>
+<circle cx="420" cy="647" r="4" fill="#f0c343"/>
+<text x="90" y="569" class="txt2">ENCLOSURE</text>
+<text x="90" y="589" class="micro">CONCEPT GEOMETRY</text>
+<path class="thin" d="M1020 295H1178V411H1020Z" opacity=".4"/>
+<text x="1041" y="285" class="txt2">SIDE VIEW</text>
+<path d="M1045 351H1150V377H1045Z" class="main"/>
+<path d="M1045 351L1060 337H1137L1150 351" class="thin"/>
+<path d="M1045 377L1060 391H1137L1150 377" class="thin"/>
+<text x="65" y="720" class="txt">OBORO RESEARCH   /   NIXIE CLOCK</text>
+<text x="1160" y="720" class="txt" text-anchor="end">CONCEPT ONLY · NTS</text>
+</svg>
